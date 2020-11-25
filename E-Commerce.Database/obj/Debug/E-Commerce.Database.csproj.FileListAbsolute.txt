@@ -1,0 +1,16 @@
+C:\Users\samr\Downloads\My-Github\E-Commerce\E-Commerce.Database\obj\Debug\E-Commerce.Database.csprojAssemblyReference.cache
+C:\Users\samr\Downloads\My-Github\E-Commerce\E-Commerce.Database\obj\Debug\E-Commerce.Database.csproj.CoreCompileInputs.cache
+C:\Users\samr\Downloads\My-Github\E-Commerce\E-Commerce.Database\bin\Debug\E-Commerce.Database.dll.config
+C:\Users\samr\Downloads\My-Github\E-Commerce\E-Commerce.Database\bin\Debug\E-Commerce.Database.dll
+C:\Users\samr\Downloads\My-Github\E-Commerce\E-Commerce.Database\bin\Debug\E-Commerce.Database.pdb
+C:\Users\samr\Downloads\My-Github\E-Commerce\E-Commerce.Database\bin\Debug\E-Commerce.Entities.dll
+C:\Users\samr\Downloads\My-Github\E-Commerce\E-Commerce.Database\bin\Debug\EntityFramework.dll
+C:\Users\samr\Downloads\My-Github\E-Commerce\E-Commerce.Database\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\samr\Downloads\My-Github\E-Commerce\E-Commerce.Database\bin\Debug\E-Commerce.Entities.pdb
+C:\Users\samr\Downloads\My-Github\E-Commerce\E-Commerce.Database\bin\Debug\EntityFramework.xml
+C:\Users\samr\Downloads\My-Github\E-Commerce\E-Commerce.Database\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\samr\Downloads\My-Github\E-Commerce\E-Commerce.Database\obj\Debug\E-Commerce.Database.csproj.CopyComplete
+C:\Users\samr\Downloads\My-Github\E-Commerce\E-Commerce.Database\obj\Debug\E-Commerce.Database.dll
+C:\Users\samr\Downloads\My-Github\E-Commerce\E-Commerce.Database\obj\Debug\E-Commerce.Database.pdb
+C:\Users\samr\Downloads\My-Github\E-Commerce\E-Commerce.Database\obj\Debug\E_Commerce.Database.Migrations.initialized.resources
+C:\Users\samr\Downloads\My-Github\E-Commerce\E-Commerce.Database\obj\Debug\E-Commerce.Database.csproj.GenerateResource.cache

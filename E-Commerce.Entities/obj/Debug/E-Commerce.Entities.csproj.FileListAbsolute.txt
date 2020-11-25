@@ -1,0 +1,5 @@
+C:\Users\samr\Downloads\My-Github\E-Commerce\E-Commerce.Entities\obj\Debug\E-Commerce.Entities.csproj.CoreCompileInputs.cache
+C:\Users\samr\Downloads\My-Github\E-Commerce\E-Commerce.Entities\bin\Debug\E-Commerce.Entities.dll
+C:\Users\samr\Downloads\My-Github\E-Commerce\E-Commerce.Entities\bin\Debug\E-Commerce.Entities.pdb
+C:\Users\samr\Downloads\My-Github\E-Commerce\E-Commerce.Entities\obj\Debug\E-Commerce.Entities.dll
+C:\Users\samr\Downloads\My-Github\E-Commerce\E-Commerce.Entities\obj\Debug\E-Commerce.Entities.pdb

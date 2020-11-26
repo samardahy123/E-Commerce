@@ -8,7 +8,7 @@ using E_Commerce.Entities;
 
 namespace E_Commerce.Database
 {
-   public class CBContext : DbContext
+   public class CBContext : DbContext,IDisposable
     {
         public CBContext() : base("E-CommerceConnection")
         {
